@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Issue5643</string>
+
+    <string name="txt_hi">Hi!</string>
+
+    <string name="btnlbl_custom_signin">Sign In</string>
+</resources>
